@@ -1,0 +1,75 @@
+creacion de user persona con diversidad fúncional:
+
+estoy realizando un proyecto de una aplicacion web con figma. Con la información de la imagen hazme una ficha usuario con diversidad funcional.
+Un nombre y, si quieres, una ilustración que te ayude a visualizar el perfil. Nunca una foto de una persona real.
+Una cita que capture la tensión central de esa persona en relación con el problema. Algo que alguien podría haber dicho realmente en una entrevista.
+El contexto de uso: cuándo, dónde y en qué condiciones interactúa con el producto. Dispositivos habituales, nivel de conectividad, entorno físico, momento del día. El dato de conectividad merece atención: si una de tus personas accede con conexión lenta o desde un dispositivo modesto, 
+Objetivos: qué quiere conseguir con el producto, tanto el objetivo inmediato como el de fondo.
+Frustraciones: qué le impide conseguir esos objetivos ahora mismo. Estos son los que más directamente orientan las decisiones de diseño.
+Para la persona con diversidad funcional, la ficha incluye también el tipo de diversidad funcional, las tecnologías de apoyo que usa si las hay, y los ajustes de sistema que tiene configurados.
+
+lo que me entregó:
+
+Ficha 3: El Lector Veterano (Diversidad Funcional)
+Nombre: Carlos "El Lector Constante"
+Ilustración: Un dibujo a línea clara de un señor mayor, sentado cómodamente en un 
+escritorio bien iluminado, operando un ordenador con un trackball.
+Cita: "Me parece preciosa la idea de una estantería virtual, pero esas aplicaciones 
+modernas donde hay que mantener el botón pulsado y arrastrar las cosas sin soltar 
+me resultan imposibles de manejar.
+"Contexto de uso:
+Utiliza la aplicación por las mañanas desde el ordenador de sobremesa de 
+su estudio, en un ambiente tranquilo y controlado.
+Dispositivo: PC de escritorio con un monitor grande de 27 pulgadas.
+Conectividad: Conexión de fibra óptica estable y por cable. El peso de la interfaz no es un problema de red para él.
+Objetivos:
+Inmediato: Ordenar por categorías y autores los cientos de libros físicos que ha acumulado 
+en su vida, además de los electrónicos que lee ahora con letra grande.   
+De fondo: Mantener su mente activa organizando su biblioteca y poder compartir el catálogo con sus nietos.
+Frustraciones: Interfaces que dependen exclusivamente de acciones complejas de ratón 
+(como el drag and drop para colocar libros que plantea la app). 
+La falta de botones grandes y claros de un solo clic para mover elementos.   
+Diversidad funcional: Discapacidad motriz fina (artritis severa o temblor esencial). 
+Tiene dificultad para realizar movimientos precisos, mantener botones pulsados 
+mientras mueve el cursor, o realizar gestos complejos.
+Tecnologías de apoyo / Ajustes de sistema:
+Utiliza un ratón de bola ergonómico (trackball) grande.
+Tiene configurada la velocidad del puntero del sistema al mínimo para evitar movimientos erráticos.
+Frecuentemente utiliza la navegación por teclado (teclas Tabulador, flechas y Enter) como 
+alternativa cuando el ratón le causa dolor. Necesita que toda la estantería sea navegable por teclado.
+
+el resultado final:
+
+Nombre: Carlos
+Cita: "Me parece preciosa la idea de una estantería virtual, pero esas aplicaciones modernas donde hay que mantener el botón pulsado y arrastrar las cosas sin soltar me resultan imposibles de manejar."
+Contexto de uso:
+Utiliza la aplicación por las mañanas desde el ordenador de sobremesa de su estudio, en un ambiente tranquilo y controlado.
+Dispositivo: PC de escritorio con un monitor grande de 27 pulgadas.
+Conectividad: Conexión de fibra óptica estable y por cable. El peso de la interfaz no es un problema de red para él.
+Objetivos:
+Inmediato: Ordenar por categorías y autores los cientos de libros físicos que ha acumulado en su vida, además de los electrónicos que lee ahora con letra grande.
+De fondo: Mantener su mente activa organizando su biblioteca y poder compartir el catálogo con sus nietos.
+Frustraciones: Interfaces que dependen exclusivamente de acciones complejas de ratón (como el drag and drop para colocar libros que plantea la app). La falta de botones grandes y claros de un solo clic para mover elementos.
+Diversidad funcional: Discapacidad motriz fina (artritis severa o temblor esencial). Tiene dificultad para realizar movimientos precisos, mantener botones pulsados mientras mueve el cursor, o realizar gestos complejos.
+Tecnologías de apoyo / Ajustes de sistema:
+Utiliza un ratón de bola ergonómico (trackball) grande.
+Tiene configurada la velocidad del puntero del sistema al mínimo para evitar movimientos erráticos.
+Frecuentemente utiliza la navegación por teclado (teclas Tabulador, flechas y Enter) como alternativa cuando el ratón le causa dolor. Necesita que toda la estantería sea navegable por teclado.
+
+## Orbita 2
+
+creación de imagenes de ejemplo para mockup:
+
+generame una imagen de una estanteria con libros
+
+respuesta:
+
+He colocado la imagen de una estantería con libros en el espacio seleccionado.
+
+segundo intento:
+
+la estanteria debe ocupar toda la imagen
+
+resultado final:
+
+He ajustado el encuadre para que la estantería ocupe toda la imagen.
